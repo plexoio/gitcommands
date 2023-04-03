@@ -17,6 +17,7 @@ This is a cheat sheet of the most commonly used commands in Git Bash, organized 
 7. `git commit -m "<message>"` # Commit changes with a message
 8. `git log` # View commit history
 9. `git log --oneline` # View commit history in compact format
+10. `python3 -m http.server` # Run live server
 
 ## Remote Repositories
 
